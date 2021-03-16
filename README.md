@@ -1,2 +1,2 @@
 # Statistical-and-Machine-Learning-approaches-for-Marketing
-Homework Exercises
+Class Homework Exercises Submissions
